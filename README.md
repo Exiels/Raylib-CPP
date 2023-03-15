@@ -52,7 +52,6 @@ Please adhere to this project's `code of conduct`.
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-![Vcpkg](https://img.shields.io/vcpkg/v/raylib)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
