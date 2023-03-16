@@ -1,5 +1,0 @@
-name: "Custom CodeQL Config"
-
-paths-ignore:
-- _deps
-- _lgtm_build_dir/_deps
