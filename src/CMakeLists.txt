@@ -86,14 +86,14 @@ set(HEADERS
 
     ${INCLUDE_PATH}/rmodels/animation.hpp
     ${INCLUDE_PATH}/rmodels/basic.hpp
-    ${INCLUDE_PATH}/rmodels/collision.hpp
-    ${INCLUDE_PATH}/rmodels/draw.hpp
+    ${INCLUDE_PATH}/rmodels/modelsCollision.hpp
+    ${INCLUDE_PATH}/rmodels/modelsDraw.hpp
     ${INCLUDE_PATH}/rmodels/load.hpp
     ${INCLUDE_PATH}/rmodels/material.hpp
     ${INCLUDE_PATH}/rmodels/mesh.hpp
 
-    ${INCLUDE_PATH}/rshapes/collision.hpp
-    ${INCLUDE_PATH}/rshapes/draw.hpp
+    ${INCLUDE_PATH}/rshapes/shapesCollision.hpp
+    ${INCLUDE_PATH}/rshapes/shapesDraw.hpp
 
     ${INCLUDE_PATH}/rtext/codepoint.hpp
     ${INCLUDE_PATH}/rtext/font.hpp
